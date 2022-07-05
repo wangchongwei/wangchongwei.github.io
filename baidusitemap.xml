@@ -94,10 +94,10 @@
     <loc>hexo/blog/2020/09/android%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.html</loc>
     <lastmod>2021-12-08</lastmod>
   </url>  <url>
-    <loc>hexo/blog/2020/09/Activity%E7%9A%84%E5%90%AF%E5%8A%A8%E6%A8%A1%E5%BC%8F.html</loc>
+    <loc>hexo/blog/2021/12/NDK-C-%E5%9F%BA%E7%A1%80-%E5%9B%9B.html</loc>
     <lastmod>2021-12-08</lastmod>
   </url>  <url>
-    <loc>hexo/blog/2021/12/NDK-C-%E5%9F%BA%E7%A1%80-%E5%9B%9B.html</loc>
+    <loc>hexo/blog/2020/09/Activity%E7%9A%84%E5%90%AF%E5%8A%A8%E6%A8%A1%E5%BC%8F.html</loc>
     <lastmod>2021-12-08</lastmod>
   </url>  <url>
     <loc>hexo/blog/2021/12/java%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E6%B1%87%E6%80%BB.html</loc>
@@ -307,10 +307,10 @@
     <loc>hexo/blog/2020/09/Callback-Future.html</loc>
     <lastmod>2020-09-08</lastmod>
   </url>  <url>
-    <loc>hexo/blog/2019/10/canvas-%E4%B8%AD%E7%9A%84%E6%96%B9%E6%B3%95.html</loc>
+    <loc>hexo/blog/2020/07/android-%E5%8A%A8%E7%94%BB.html</loc>
     <lastmod>2020-09-04</lastmod>
   </url>  <url>
-    <loc>hexo/blog/2020/07/android-%E5%8A%A8%E7%94%BB.html</loc>
+    <loc>hexo/blog/2019/10/canvas-%E4%B8%AD%E7%9A%84%E6%96%B9%E6%B3%95.html</loc>
     <lastmod>2020-09-04</lastmod>
   </url>  <url>
     <loc>hexo/blog/2020/09/java-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F.html</loc>
@@ -337,13 +337,13 @@
     <loc>hexo/blog/2020/05/kotlin.html</loc>
     <lastmod>2020-07-27</lastmod>
   </url>  <url>
-    <loc>hexo/blog/2020/05/java-%E9%9B%86%E5%90%88.html</loc>
-    <lastmod>2020-06-01</lastmod>
-  </url>  <url>
     <loc>hexo/blog/2020/05/%E4%BD%8D%E6%93%8D%E4%BD%9C%E7%AC%A6.html</loc>
     <lastmod>2020-06-01</lastmod>
   </url>  <url>
     <loc>hexo/blog/2020/05/%E6%97%A5%E5%B8%B8%E8%AE%B0%E5%BD%95.html</loc>
+    <lastmod>2020-06-01</lastmod>
+  </url>  <url>
+    <loc>hexo/blog/2020/05/java-%E9%9B%86%E5%90%88.html</loc>
     <lastmod>2020-06-01</lastmod>
   </url>  <url>
     <loc>hexo/blog/2020/05/java-%E6%9E%9A%E4%B8%BE.html</loc>
